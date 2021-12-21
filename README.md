@@ -1,7 +1,8 @@
 ### Murillo Aguair👋
 
 
-- 🔭 I'm currently focused on personal projects
+- 🔭 I am currently an intern working with laravel
+- 🔥 I also develop personal projects
 - 🌱 Studying about web development
 - 💻 I'm currently practicing HTML, CSS and pure Javascript
 - 👩‍💻 Interested in transforming knowledge into real solutions
