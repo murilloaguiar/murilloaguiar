@@ -1,10 +1,10 @@
 ### Murillo Aguair👋
 
 
-- 🔭 I am currently an intern working with laravel
+- 🔭 I'm currently an intern working with Laravel
 - 🔥 I also develop personal projects
 - 🌱 Studying about web development
-- 💻 I'm currently practicing HTML, CSS and pure Javascript
+- 💻 I'm currently practicing HTML, CSS, pure Javascript and VueJs
 - 👩‍💻 Interested in transforming knowledge into real solutions
 - 🎵 Linkin Park it's my favorite band
 
